@@ -205,22 +205,21 @@ export const ARTICLE_HTML = `<div id="app-container" class="AppContainer_page__a
   </div>
 </div>
 
-<p class="paragraph_paragraph___QITb">Nana Carol, another voice from <em>In My Blood It Runs</em>, described the dissonance from the other side.</p>
+<p class="paragraph_paragraph___QITb">Nana Carol, from <em>In My Blood It Runs</em>, described this dissonance.</p>
 <div class="EmphasisedText_emphasisedText__McMdj" data-component="EmphasisedText">
 <blockquote class="EmphasisedText_quote__TE6kn">&#34;The history we were told at home is in Language and it's about the Aborigines, but the one back at school was for white people.&#34;</blockquote>
 </div>
-<p class="paragraph_paragraph___QITb">Two histories. Two epistemologies. One child, asked to choose &mdash; or rather, not asked at all.</p>
+<p class="paragraph_paragraph___QITb">Two histories. And a young child asked to choose, or perhaps not at all.</p>
 
-<!-- ===== SECTION V: The Science of Survival ===== -->
 <h2 class="Typography_base__sj2RP Heading_heading__VGa5B heading_heading__kjfxC Heading_default__Z3p_p Typography_sizeMobile20__NUDn4 Typography_sizeDesktop32__LR_G6 Typography_lineHeightMobile24__crkfh Typography_lineHeightDesktop40__BuoRf Typography_marginBottomMobileSmall__6wx7m Typography_marginBottomDesktopSmall__CboX4 Typography_bold__FqafP Typography_colourInherit__dfnUx Typography_normalise__u5o1s" data-component="Heading">The science of survival</h2>
 
-<p class="paragraph_paragraph___QITb">What communities have long known &mdash; that language is wellbeing &mdash; is now being confirmed by research. A realist review published in the International Journal for Equity in Health links language use to stronger mental health, education, social cohesion and even physical health outcomes. The mechanism, researchers suggest, is belongingness: language anchors identity, and identity anchors health.</p>
+<p class="paragraph_paragraph___QITb">What communities have long known, that language improves wellbeing, is now being confirmed by research. A realist review published in the International Journal for Equity in Health ties language use to stronger mental health, education, social aptitude and even physical health outcomes. Researchers hypothesise the underlying mechanism is belongingness: language anchors identity, and identity anchors health.</p>
 
-<p class="paragraph_paragraph___QITb">The most striking data comes from suicide research. A study by Griffith University and the Australian Institute for Suicide Research and Prevention, examining Queensland data from 2001 to 2015, found that cultural connection &mdash; including language &mdash; lowers Aboriginal youth suicide rates. The baseline was devastating: 46.91 deaths per 100,000 for Aboriginal people aged 15 to 24. But cultural connection was protective, even in disadvantaged areas. Where language lived, young people were more likely to live too.</p>
+<p class="paragraph_paragraph___QITb">The most striking data is from suicide research. A study by Griffith University and the Australian Institute for Suicide Research and Prevention examined Queensland data from 2001 to 2015, finding that linguistic connection lowers Aboriginal youth suicide rates. Indeed, First Language usage led to 37% reduction in suicide rates from the devastating baseline of 46.91 deaths per 100,000 for Aboriginal people aged 15 to 24. The survival of language improved that of disadvantaged youth. </p>
 
 <!-- Data table -->
 <div class="abc-data-table">
-  <div class="abc-dt-title">Language and wellbeing: the evidence</div>
+  <div class="abc-dt-title">Statistics</div>
   <table>
     <thead>
       <tr><th>Dimension</th><th>Finding</th><th>Source</th></tr>
