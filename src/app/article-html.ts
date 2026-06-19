@@ -23,18 +23,19 @@ export const ARTICLE_HTML = `<div id="app-container" class="AppContainer_page__a
                             </p>
                           </div>
                         </div></div><aside class="Article_layout__1pl0i Article_hidePrint__yWjxi"><div data-component="ShareBanner" class="ShareBanner_container__OX63I Article_main__wLtNk"><div data-component="AddressShareBar" class="ShareBanner_addressShareBar__gSRSJ AddressShareBar_addressShareBar__yv8K2"><div id="pageURL" aria-hidden="true" aria-label="https://www.abc.net.au/news/2026-06-17/when-the-land-stops-speaking/106806976" class="AddressShareBar_address__D3ZaM AddressShareBar_showButton__r3mTa" role="button" tabindex="-1"><div class="AddressShareBar_link__o15ZQ">abc.net.au/news/2026-06-17/when-the-land-stops-speaking/106806976</div></div><button class="Button_btn___qFSk AddressShareBar_button__m_1Rm ShareBanner_addressShareBarButton__H6aan Button_filled__Z0XIL Button_hasIcon__G3VLB Button_hasText__gfeBI Button_iconLeft__6d9H_" aria-label="Copy link" data-component="Button" aria-describedby="pageURL" role="button" type="button"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" width="1em" height="1em" data-component="Link" class="icon_icon__9kCSO AddressShareBar_icon__c2Qju icon_size24__GkyQ9" aria-hidden="true"><path fill="currentColor" d="M13.308 9.447c.23.158.449.339.652.542 1.735 1.735 1.816 4.548.081 6.283l-2.99 2.992c-1.735 1.734-4.548 1.652-6.283-.082-1.735-1.735-1.816-4.548-.082-6.282l1.556-1.556 1.414 1.414L6.1 14.314c-.909.909-.917 2.455.082 3.454.999.998 2.545.99 3.454.08l2.991-2.99c.91-.91.918-2.456-.08-3.455a2.627 2.627 0 0 0-.504-.393l1.03-1.713.235.15Z"></path><path fill="currentColor" d="M12.627 4.958c1.735-1.734 4.548-1.653 6.283.082 1.734 1.735 1.816 4.548.082 6.282l-1.556 1.556-1.415-1.414 1.556-1.556c.909-.909.917-2.455-.081-3.454-1-.999-2.545-.99-3.454-.082L11.05 9.364c-.909.91-.917 2.456.081 3.454.05.05.17.147.318.256.113.085.213.155.232.168l.003.001-1.132 1.65-.002-.002-.005-.003a10.233 10.233 0 0 1-.29-.21 5.207 5.207 0 0 1-.538-.445c-1.735-1.735-1.815-4.55-.08-6.284l2.99-2.99Z"></path></svg><span></span></button><span aria-hidden="true" class="AddressShareBar_indicator___px0_">Link copied</span></div><div class="ShareBanner_actionButtons__gL_n0"><button role="button" aria-label="Share this article" type="button" class="Button_root__UZ8td Button_secondary__Vld8_ Button_primaryTextVariant__Hhk3I Button_large__OX1mV Button_withIcon__Znha0 Button_withGap__va3j2 ShareBanner_shareButton__Ngjqb ShareButton_shareButton__r_dH1" data-share="copy" data-url="https://www.abc.net.au/news/2026-06-17/when-the-land-stops-speaking/106806976"><span class="Typography_base__sj2RP Typography_sizeMobile14__u7TGe Typography_sizeDesktop16__zyLf4 Typography_lineHeightDesktop16__eRkjh Typography_bold__FqafP Typography_colourInherit__dfnUx" data-component="Typography"><span class="ShareButton_buttonTextShort__Y1p9n">Share</span><span class="ShareButton_buttonTextLong__LRMeU">Share<!-- --> <!-- -->article</span></span><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" width="1em" height="1em" data-component="ShareWeb" class="icon_icon__9kCSO Button_iconSize__umvch" aria-hidden="true"><path fill="currentColor" fill-rule="evenodd" d="M15 13s-9-1-12.998 7c0 0 0-13 12.998-13V3l7 7-7 7v-4Z" clip-rule="evenodd"></path></svg></button></div></div></aside><div class="Article_layout__1pl0i"><div class="ArticleWeb_article__jRLK1 Article_main__wLtNk Article_hasSidebars__HFpa0"><div class="engagement_target__kiIVK ArticleRender_article__RdZk2">
-<!-- ===== SECTION I: The Boy Who Spoke Three Languages ===== -->
 <p class="paragraph_paragraph___QITb">Dujuan Hoosan was only ten when a camera crew started following his life in Mparntwe, Alice Springs. He was an Angangkere &mdash; a indigenous healer &mdash; and spoke three languages: Arrernte, Garrwa, and English. Through any custodial metric, Dujuan was a child of extraordinary prowess. And yet in the eyes of his school principal, he was no more than a rebellious failure.</p>
 
 <p class="paragraph_paragraph___QITb">The emergent documentary <em>In My Blood It Runs</em> (2019) evinces the generational tension that Aboriginal and Torres Strait Islander families faced with a Western schooling system. A construct that denied the cultural and linguistic intertwinedness, even pathologising it.  Jane Vadiveloo of Children's Ground describes it as a system that "doesn't speak his language or culture, and doesn't see his strengths."</p>
 
-<p class="paragraph_paragraph___QITb">The documentary was made collaborating with Arrente and Garrwa families, Elders, and communities, including Margaret Kemarre Turner and William Tilmouth. This film bolstered advocacy for the Raise the Age campaign &mdash; at the time of filming, Dujuan was ten, the minimum age of criminal responsibility in Australia. Aged twelve, he addressed the United Nations Human Rights Council in Geneva.</p>
+<p class="paragraph_paragraph___QITb">The documentary was made collaborating with Arrente and Garrwa families, Elders, and communities, including Margaret Kemarre Turner and William Tilmouth. This film bolstered advocacy for the Raise the Age campaign &mdash; at the time of filming, Dujuan was ten, the minimum age of criminal responsibility in Australia. </p>
 
 <p class="paragraph_paragraph___QITb">At just twelve years of age, Dujuan addressed the United Nations Human Rights Council in Geneva.</p>
 
 <div class="EmphasisedText_emphasisedText__McMdj" data-component="EmphasisedText">
 <blockquote class="EmphasisedText_quote__TE6kn">&#34;Schools should be run by Aboriginal people. Let our families choose what is best for us. Let us speak our languages in school&hellip; I feel strong when I am learning my culture from my Elders and my land. This is who I am and they don't see me at school.&#34;</blockquote>
 </div>
+
+<p class="paragraph_paragraph___QITb">Dujuan spoke on behalf of the Human Rights Law Centre, an independent Australian organisation aimed at advancing human rights for all.</p>
 
 <figure class="ContentAlignment_marginBottom__4H_6E ContentAlignment_overflowAuto__c1_IL Figure_figure__xLyBy Figure_docImage__DSvk4" data-print="inline-media" data-component="Figure">
   <div class="Figure_content__8xRH4">
@@ -47,7 +48,7 @@ export const ARTICLE_HTML = `<div id="app-container" class="AppContainer_page__a
     </div>
     <figcaption class="Figure_caption__fS2lN" data-component="Figure__figcaption">
       <p class="Typography_base__sj2RP FigureCaption_text__zDxQ5 Typography_sizeMobile12__w_FPC Typography_lineHeightMobile20___U7Vr Typography_regular__WeIG6 Typography_colourInherit__dfnUx" data-component="Typography">
-        Dujuan Hoosan, featured in the documentary In My Blood It Runs (2019), is an Arrernte/Garrwa boy from Mparntwe (Alice Springs) who was labelled "failing" at school despite speaking three languages.
+        Dujuan Hoosan, featured in the documentary In My Blood It Runs (2019), is an Arrernte/Garrwa boy from Mparntwe (Alice Springs), labelled as "failing" at school despite his cultural fluency.
         <cite>(<span>In My Blood It Runs, 2019</span>)</cite>
       </p>
     </figcaption>
@@ -55,15 +56,14 @@ export const ARTICLE_HTML = `<div id="app-container" class="AppContainer_page__a
 </figure>
 
 
-<p class="paragraph_paragraph___QITb">Margaret Kemarre Turner, an Arrernte Elder and advisor on the film, framed the problem as a question of institutional readiness rather than student deficiency.</p>
+<p class="paragraph_paragraph___QITb">Margaret Kemarre Turner, an Arrernte Elder and advisor on the documentary, reframes the issues as a question of institutional inadequacy instead of student capability.</p>
 <div class="EmphasisedText_emphasisedText__McMdj" data-component="EmphasisedText">
 <blockquote class="EmphasisedText_quote__TE6kn">&#34;They ask us to make our children ready for school, but why can't we make schools ready for our children.&#34;</blockquote>
 </div>
 
-<p class="paragraph_paragraph___QITb">It is the central question of this piece, and it extends far beyond one boy in one town. It asks what a nation loses &mdash; measurably, not metaphorically &mdash; when it allows the languages of its First Peoples to die. And it asks who has the authority to decide whether they do.</p>
+<p class="paragraph_paragraph___QITb">Her work, which have gained indisputable influence worldwide, revolves around this question. It asks what a nation truly loses when it allows the languages of its First Peoples to die. And it asks who possesses the authority to decide whether they do.</p>
 
-<!-- ===== SECTION II: The Arithmetic of Loss ===== -->
-<h2 class="Typography_base__sj2RP Heading_heading__VGa5B heading_heading__kjfxC Heading_default__Z3p_p Typography_sizeMobile20__NUDn4 Typography_sizeDesktop32__LR_G6 Typography_lineHeightMobile24__crkfh Typography_lineHeightDesktop40__BuoRf Typography_marginBottomMobileSmall__6wx7m Typography_marginBottomDesktopSmall__CboX4 Typography_bold__FqafP Typography_colourInherit__dfnUx Typography_normalise__u5o1s" data-component="Heading">The arithmetic of loss</h2>
+<h2 class="Typography_base__sj2RP Heading_heading__VGa5B heading_heading__kjfxC Heading_default__Z3p_p Typography_sizeMobile20__NUDn4 Typography_sizeDesktop32__LR_G6 Typography_lineHeightMobile24__crkfh Typography_lineHeightDesktop40__BuoRf Typography_marginBottomMobileSmall__6wx7m Typography_marginBottomDesktopSmall__CboX4 Typography_bold__FqafP Typography_colourInherit__dfnUx Typography_normalise__u5o1s" data-component="Heading">Lost languages</h2>
 <figure class="ContentAlignment_marginBottom__4H_6E ContentAlignment_overflowAuto__c1_IL Figure_figure__xLyBy Figure_docImage__DSvk4" data-print="inline-media" data-component="Figure">
   <div class="Figure_content__8xRH4">
     <div class="FigureContent_content__GnImC">
@@ -75,16 +75,17 @@ export const ARTICLE_HTML = `<div id="app-container" class="AppContainer_page__a
     </div>
     <figcaption class="Figure_caption__fS2lN" data-component="Figure__figcaption">
       <p class="Typography_base__sj2RP FigureCaption_text__zDxQ5 Typography_sizeMobile12__w_FPC Typography_lineHeightMobile20___U7Vr Typography_regular__WeIG6 Typography_colourInherit__dfnUx" data-component="Typography">
-        Country, for Aboriginal and Torres Strait Islander peoples, encompasses all living things, the knowledge, cultural practices and responsibilities connected to it — all carried in language.
+        For Aboriginal and Torres Strait Islander peoples, the interconnected notion of Country, its knowledge, culture, and responsibilities are all carried in language.
         <cite>(<span>Photo: Tourism NT</span>)</cite>
       </p>
     </figcaption>
   </div>
 </figure>
 
-<p class="paragraph_paragraph___QITb">The numbers tell a story of attrition so gradual it has been normalised. According to AIATSIS, an estimated 250 languages and 600 to 700 dialects were spoken before colonisation. The 2021 Census recorded 150-plus languages still in use &mdash; but only about 14 are considered "strong." Of 123 languages still spoken, 109 are endangered. Australia has one of the highest rates of language loss in the world.</p>
+<p class="paragraph_paragraph___QITb">Numerical data tell a distressing story of desensitised linguistic eradication. AIATSIS reports an estimated 250 languages and 600 to 700 dialects were spoken before colonisation. The 2021 Census recorded 150-plus languages still in use but only about 14 are considered "strong." At least 109 are endangered. </p>
 
-<!-- Data visualisation: bar chart -->
+<p class="paragraph_paragraph___QITb">Australia has one of the highest rates of language loss in the world.</p>
+
 <div class="abc-data-viz">
   <div class="abc-dv-title">First Languages in Australia: A visual decline</div>
   <div class="abc-dv-chart">
@@ -105,49 +106,48 @@ export const ARTICLE_HTML = `<div id="app-container" class="AppContainer_page__a
       <div class="abc-dv-bar abc-dv-bar-danger" style="width: 43.6%;"><span>109 of 123</span></div>
     </div>
   </div>
-  <div class="abc-dv-source">Sources: AIATSIS; 2021 Census (ABS); National Indigenous Australians Agency</div>
+  <div class="abc-dv-source">Sources: AIATSIS, 2021 Census, National Indigenous Australians Agency</div>
 </div>
 
-<p class="paragraph_paragraph___QITb">In proportional terms, the decline is continuing. In 2016, 9.8 per cent of Indigenous people spoke a First Language at home. By 2021, that figure had fallen to 9.5 per cent &mdash; 76,978 people &mdash; despite an absolute rise in the Indigenous population. Arrernte, the language Dujuan Hoosan speaks, has roughly 4,100 speakers of Eastern and Central dialects, making it one of the strongest, yet a minority of Arrernte people are fluent.</p>
+<p class="paragraph_paragraph___QITb">This decline has continued. In 2016, 9.8 per cent of Indigenous people spoke a First Language at home. By 2021, that figure had fallen to 9.5 per cent, 76,978 people. Arrernte, one of the languages Dujuan speaks, has roughly 4,100 speakers of Eastern and Central dialects, yet only a minority of Arrernte people are fluent.</p>
 
-<p class="paragraph_paragraph___QITb">The numbers are abstractions. Behind each is a grammar that once mapped a landscape &mdash; names for birds and rocks and hills and waters that, as Stan Grant wrote of his father's Wiradjuri, "echo through millennia." When a language dies, those names fall silent. The landscape does not change; what changes is the capacity of human beings to read it.</p>
+<p class="paragraph_paragraph___QITb">But numbers fail to capture the complexity of Aboriginal languages. Their grammar, syntax, and vocabulary vividly paint scenes of birds and rocks and waters, which as Stan Grant wrote of his father's Wiradjuri, "echo through millennia." The death of a language loses all this nested meaning. It severs the ability for Indigenous people to read the very land that nourishes them. </p>
 
-<!-- ===== SECTION III: The Architecture of Meaning ===== -->
-<h2 class="Typography_base__sj2RP Heading_heading__VGa5B heading_heading__kjfxC Heading_default__Z3p_p Typography_sizeMobile20__NUDn4 Typography_sizeDesktop32__LR_G6 Typography_lineHeightMobile24__crkfh Typography_lineHeightDesktop40__BuoRf Typography_marginBottomMobileSmall__6wx7m Typography_marginBottomDesktopSmall__CboX4 Typography_bold__FqafP Typography_colourInherit__dfnUx Typography_normalise__u5o1s" data-component="Heading">The architecture of meaning</h2>
+<h2 class="Typography_base__sj2RP Heading_heading__VGa5B heading_heading__kjfxC Heading_default__Z3p_p Typography_sizeMobile20__NUDn4 Typography_sizeDesktop32__LR_G6 Typography_lineHeightMobile24__crkfh Typography_lineHeightDesktop40__BuoRf Typography_marginBottomMobileSmall__6wx7m Typography_marginBottomDesktopSmall__CboX4 Typography_bold__FqafP Typography_colourInherit__dfnUx Typography_normalise__u5o1s" data-component="Heading">The meaning of language</h2>
 
-<p class="paragraph_paragraph___QITb">To understand why language loss matters &mdash; why it is not nostalgia but a structural injury &mdash; it is necessary to understand what First Languages carry. In the Arrernte worldview, identity is rooted in Altyerre, the Dreaming, encoded in language, songlines, kinship and ceremonial law. Ayeye &mdash; oral storytelling &mdash; is a millennia-old epistemology, a way of knowing that is inseparable from the language in which it is expressed.</p>
+<p class="paragraph_paragraph___QITb">To fully comprehend why language loss is so significant, it is necessary to understand the meaning First Languages carry. According to the Arrernte worldview, identity is interconnected with Altyerre, the Dreaming, encrypted in language, songs, kinship and ceremonial law. Indeed, the millenia-old tradition of Ayeye (oral storytelling) describes an epistemological framework codependent on language and its subtleties.</p>
 
-<p class="paragraph_paragraph___QITb">Kinship is linguistic. Arrernte kinship rules &mdash; governing marriage, ceremonial roles, land ownership, obligation &mdash; are encoded entirely in language. To lose the language is not to lose a vocabulary; it is to lose the operating system of a society. The 2021 State of the Environment report stressed that Country encompasses "all living things&hellip; the knowledge, cultural practices and responsibilities connected to it" &mdash; all of which are linguistically constituted.</p>
+<p class="paragraph_paragraph___QITb">Arrernte kinship rules are linguistic, with marriage, ceremony, and land ownership etched in language. The loss of Indigenous languages forfeit the foundational basis of Aboriginal and Torres Strait Island society. According to the 2021 State of the Environment report, Country linguistically encompasses "all living things&hellip; the knowledge, cultural practices and responsibilities connected to it."</p>
 
-<p class="paragraph_paragraph___QITb">Country, in this framework, is not land. It is a relationship, and language is the medium of that relationship. As one Indigenous voice cited in the research put it: "As Aboriginal people we look at things in our way; a lot of that is rooted in the language&hellip; the way we see the world, the concepts we have and the understanding."</p>
+<p class="paragraph_paragraph___QITb">Aboriginal and Torres Strait Islander people form interpersonal relationships with Country, expressed through the medium of language. "As Aboriginal people we look at things in our way; a lot of that is rooted in the language&hellip; the way we see the world, the concepts we have and the understanding."</p>
 
 <div class="EmphasisedText_emphasisedText__McMdj" data-component="EmphasisedText">
 <blockquote class="EmphasisedText_quote__TE6kn">&#34;Language is my identity. It's who I am, it's where I come from. It is me.&#34;</blockquote>
 </div>
+<p class="paragraph_paragraph___QITb">This nuanced relationship is becoming increasingly prominent in advocacy. </p>
 
 <figure class="ContentAlignment_marginBottom__4H_6E ContentAlignment_overflowAuto__c1_IL Figure_figure__xLyBy Figure_docImage__DSvk4" data-print="inline-media" data-component="Figure">
   <div class="Figure_content__8xRH4">
     <div class="FigureContent_content__GnImC">
       <div class="ContentImage_ratio__0yYeG">
         <div class="AspectRatio_container__FC_XH" style="--aspect-ratio:1.7777777777777777" data-component="AspectRatioContainer">
-          <img alt="Stan Grant Sr, Wiradjuri Elder and language revivalist" class="Image_image__5tFYM ContentImage_image__DQ_cq" sizes="100vw" src="https://sfile.chatglm.cn/images-ppt/7f5c31aa800d.jpg" loading="lazy" data-component="Image" />
+          <img alt="Stan Grant Sr, Wiradjuri Elder and language revivalist" class="Image_image__5tFYM ContentImage_image__DQ_cq" sizes="100vw" src="https://www.naidoc.org.au/sites/default/files/images/winner-profiles/stan.jpg" loading="lazy" data-component="Image" />
         </div>
       </div>
     </div>
     <figcaption class="Figure_caption__fS2lN" data-component="Figure__figcaption">
       <p class="Typography_base__sj2RP FigureCaption_text__zDxQ5 Typography_sizeMobile12__w_FPC Typography_lineHeightMobile20___U7Vr Typography_regular__WeIG6 Typography_colourInherit__dfnUx" data-component="Typography">
-        Stan Grant Sr spent decades rebuilding the Wiradjuri language from 19th-century word lists, producing dictionaries now taught in schools. He received the 2022 NAIDOC Lifetime Achievement Award.
+        Stan Grant Sr spent decades rebuilding the Wiradjuri language from 19th-century word lists, producing dictionaries now taught in schools. He has received the 2022 NAIDOC Lifetime Achievement Award.
         <cite>(<span>ABC News</span>)</cite>
       </p>
     </figcaption>
   </div>
 </figure>
-<p class="paragraph_paragraph___QITb">Stan Grant Sr spent decades rebuilding Wiradjuri from 19th-century word lists, working with John Rudder to compile dictionaries of 3,000 and 5,000 entries. The materials are now taught in schools like Forbes North Primary. His son, Stan Grant, wrote that for his father, "the birds, the rocks, the trees, the hills and the waters have names that echo through millennia." The reclamation was not an academic exercise. It was, in Grant Sr's words, the recovery of self.</p>
+<p class="paragraph_paragraph___QITb">Stan Grant Sr has spent decades rebuilding Wiradjuri from 19th-century word lists, collaborating with John Rudder to compile dictionaries of 3,000 and 5,000 entries. Such materials now are taught in schools like Forbes North Primary. Unfortunately, this dedication and reverence has not always been so prevalent.</p>
 
-<!-- ===== SECTION IV: The Deliberate Severance ===== -->
-<h2 class="Typography_base__sj2RP Heading_heading__VGa5B heading_heading__kjfxC Heading_default__Z3p_p Typography_sizeMobile20__NUDn4 Typography_sizeDesktop32__LR_G6 Typography_lineHeightMobile24__crkfh Typography_lineHeightDesktop40__BuoRf Typography_marginBottomMobileSmall__6wx7m Typography_marginBottomDesktopSmall__CboX4 Typography_bold__FqafP Typography_colourInherit__dfnUx Typography_normalise__u5o1s" data-component="Heading">The deliberate severance</h2>
+<h2 class="Typography_base__sj2RP Heading_heading__VGa5B heading_heading__kjfxC Heading_default__Z3p_p Typography_sizeMobile20__NUDn4 Typography_sizeDesktop32__LR_G6 Typography_lineHeightMobile24__crkfh Typography_lineHeightDesktop40__BuoRf Typography_marginBottomMobileSmall__6wx7m Typography_marginBottomDesktopSmall__CboX4 Typography_bold__FqafP Typography_colourInherit__dfnUx Typography_normalise__u5o1s" data-component="Heading">The deliberate purge</h2>
 
-<p class="paragraph_paragraph___QITb">The loss of First Languages was not an accident of contact. It was, in many cases, a deliberate policy. Between one in ten and one in three Aboriginal and Torres Strait Islander children were forcibly removed from their families over multiple generations &mdash; the Stolen Generations. Children in institutions were forbidden from speaking their languages. It was a tool of cultural severance, systematic and intentional.</p>
+<p class="paragraph_paragraph___QITb">The loss of First Languages was not an accident. In many cases, it was a deliberate, state-sponsored policy. policy. Between one in ten and one in three Aboriginal and Torres Strait Islander children were forcibly removed from their families over multiple generations &mdash; the Stolen Generations. Children exiled to institutions were forbidden from speaking their languages. This led to an era of systemic, intentional severance from Indigenous languages.</p>
 <figure class="ContentAlignment_marginBottom__4H_6E ContentAlignment_overflowAuto__c1_IL Figure_figure__xLyBy Figure_docImage__DSvk4" data-print="inline-media" data-component="Figure">
   <div class="Figure_content__8xRH4">
     <div class="FigureContent_content__GnImC">
@@ -159,16 +159,16 @@ export const ARTICLE_HTML = `<div id="app-container" class="AppContainer_page__a
     </div>
     <figcaption class="Figure_caption__fS2lN" data-component="Figure__figcaption">
       <p class="Typography_base__sj2RP FigureCaption_text__zDxQ5 Typography_sizeMobile12__w_FPC Typography_lineHeightMobile20___U7Vr Typography_regular__WeIG6 Typography_colourInherit__dfnUx" data-component="Typography">
-        Between one in ten and one in three Aboriginal and Torres Strait Islander children were forcibly removed from their families over multiple generations. Children in institutions were forbidden from speaking their languages.
+        During the Stolen Generations, children would be forcibly taken from their families, and either adopted or sent into institutionalised care under Western influence.
         <cite>(<span>National Archives of Australia</span>)</cite>
       </p>
     </figcaption>
   </div>
 </figure>
 
-<p class="paragraph_paragraph___QITb">A 2018 federal-government-commissioned study was the first to link Stolen Generations membership empirically to intergenerational trauma across nearly all health and welfare domains. The damage did not stop with the individuals removed; it transmitted, measurably, to their children and grandchildren.</p>
+<p class="paragraph_paragraph___QITb">A 2018 federal-government-commissioned study was the first to correlate Stolen Generations membership empirically to intergenerational trauma across nearly all health and welfare domains. It found en masse that damage was not limited solely to first-generation victims, rather propagated to children and grandchildren, significantly limiting their own linguistic reconnections.</p>
 
-<p class="paragraph_paragraph___QITb">The Northern Territory Bilingual Education Program, which ran from 1973 to 2008, offered a counter-example. It operated in English and 19 Aboriginal languages across 29 remote schools, and was assessed as educationally and culturally successful. Then, in 2008, it was dismantled by a government mandate requiring the "first four hours" of instruction to be in English &mdash; a decision taken, in the words of researchers at Charles Darwin University, "without apparent regard for&hellip; the language rights of Indigenous peoples."</p>
+<p class="paragraph_paragraph___QITb">The Northern Territory Bilingual Education Program, which ran from 1973 to 2008, offered a sliver of hope. It operated in English and 19 Aboriginal languages across 29 remote schools. Its meaningful contributions to rebuilding First Language fluency harmonised its educational and cultural success. Yet abruptly, in 2008, it was dismantled by a government policy requiring the "first four hours" of instruction to be in English. This decision, in the words of researchers at Charles Darwin University, was reckless, "without apparent regard for&hellip; the language rights of Indigenous peoples."</p>
 
 <!-- Timeline -->
 <div class="abc-timeline-viz">
@@ -176,7 +176,7 @@ export const ARTICLE_HTML = `<div id="app-container" class="AppContainer_page__a
   <div class="abc-tl-item">
     <div class="abc-tl-dot"></div>
     <div class="abc-tl-date">1973</div>
-    <div class="abc-tl-text">NT Bilingual Education Program begins &mdash; English + 19 Aboriginal languages across 29 schools</div>
+    <div class="abc-tl-text">NT Bilingual Education Program begins, teaching English and 19 Aboriginal languages across 29 schools</div>
   </div>
   <div class="abc-tl-item">
     <div class="abc-tl-dot"></div>
@@ -186,12 +186,12 @@ export const ARTICLE_HTML = `<div id="app-container" class="AppContainer_page__a
   <div class="abc-tl-item">
     <div class="abc-tl-dot"></div>
     <div class="abc-tl-date">2009</div>
-    <div class="abc-tl-text">Australia endorses UNDRIP &mdash; including Arts. 13&ndash;15 on Indigenous language rights</div>
+    <div class="abc-tl-text">Australia endorses UNDRIP and Articles 13&ndash;15 on Indigenous language rights</div>
   </div>
   <div class="abc-tl-item">
     <div class="abc-tl-dot"></div>
     <div class="abc-tl-date">2017</div>
-    <div class="abc-tl-text">NSW Aboriginal Languages Act &mdash; first statute to recognise language loss as "a product of government action and policy"</div>
+    <div class="abc-tl-text">NSW Aboriginal Languages Act: the first statute to recognise language loss as "a product of government action and policy"</div>
   </div>
   <div class="abc-tl-item">
     <div class="abc-tl-dot"></div>
