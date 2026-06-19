@@ -1,0 +1,55 @@
+# Builds the Next.js static export and deploys it to GitHub Pages.
+#
+# The site is served from https://testx4201.github.io/abcnews/, so
+# NEXT_PUBLIC_BASE_PATH=/abcnews is set at build time to prefix all asset
+# URLs (ABC CSS, fonts, favicon, and Next.js _next/static/* files).
+#
+# Prerequisites (one-time, in the GitHub repo settings):
+#   Settings → Pages → Build and deployment → Source: GitHub Actions
+#
+# After that, every push to `main` redeploys automatically.
+
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: oven-sh/setup-bun@v2
+
+      - run: bun install --frozen-lockfile
+
+      - run: bun run build
+        env:
+          # Prefixes all asset paths so the site works under /abcnews/.
+          NEXT_PUBLIC_BASE_PATH: /abcnews
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: out
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
